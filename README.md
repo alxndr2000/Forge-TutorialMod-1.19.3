@@ -6,11 +6,11 @@ Assets (MIT Licence) and [Tutorial](https://www.youtube.com/playlist?list=PLKGar
 
 ---
 
-Adds Zircon ore, blocks and items.
+Adds Zircon ore, blocks and items. (from the tutorial)
 
 TODO: add spawning in the world.
 
-Adds the Magic Eightball.
+Adds the Magic Eightball. (from the tutorial, extended functionality added by me)
 
 Crafted by surrounding a diamond with 4 obsidian.
 
