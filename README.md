@@ -2,7 +2,7 @@
 
 Written by alxndr2000
 
-Assets (MIT Licence) and [tutorial](https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl) from Kaupenjoe 
+Assets (MIT Licence) and [Tutorial](https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl) from [Kaupenjoe](https://github.com/Kaupenjoe)
 
 ---
 
